@@ -42,7 +42,7 @@ INSTALLED_APPS = [
 ]
 
 GRAPHENE = {
- 'SCHEMA': 'TaskManager.schema.schema',
+    'SCHEMA': 'TaskManager.schema.schema',
 }
 
 MIDDLEWARE = [
